@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [RegressionSuite]">
+  <parameter name="browser" value="chrome"/>
+  <groups>
+    <run>
+      <include name="regression"/>
+    </run>
+  </groups>
+  <test name="RegressionTest">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.project.NaveenSelenium.TC_005"/>
+      <class name="com.project.NaveenSelenium.TC_004"/>
+      <class name="com.project.NaveenSelenium.TC_003"/>
+      <class name="com.project.NaveenSelenium.TC_002"/>
+    </classes>
+  </test> <!-- RegressionTest -->
+</suite> <!-- Failed suite [RegressionSuite] -->

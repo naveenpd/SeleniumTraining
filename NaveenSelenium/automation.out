@@ -1,0 +1,18 @@
+2019-44-27 07:44:46 INFO  BasePage:78 - No locator is matching...null
+2019-48-27 07:48:10 INFO  TC_001:12 - Opened the Browser of type:chrome
+2019-48-27 07:48:25 INFO  TC_001:15 - Navigate to URL :https://www.amazon.in
+2019-48-27 07:48:25 INFO  TC_001:20 - Entered the searched Text :sony
+2019-48-27 07:48:29 INFO  TC_001:23 - Clicked on Amazon search button
+2019-21-27 11:21:30 INFO  TC_001:12 - Opened the Browser of type:chrome
+2019-21-27 11:21:45 INFO  TC_001:15 - Navigate to URL :https://www.amazon.in
+2019-21-27 11:21:45 INFO  TC_001:20 - Entered the searched Text :sony
+2019-21-27 11:21:50 INFO  TC_001:23 - Clicked on Amazon search button
+2019-28-27 11:28:21 INFO  TC_001:12 - Opened the Browser of type:chrome
+2019-28-27 11:28:48 INFO  TC_001:15 - Navigate to URL :https://www.amazon.in
+2019-28-27 11:28:48 INFO  TC_001:20 - Entered the searched Text :sony
+2019-28-27 11:28:55 INFO  TC_001:23 - Clicked on Amazon search button
+2019-56-27 14:56:03 INFO  TC_001:12 - Opened the Browser of type:chrome
+2019-56-27 14:56:20 INFO  TC_001:15 - Navigate to URL :https://www.amazon.in
+2019-56-27 14:56:21 INFO  TC_001:20 - Entered the searched Text :sony
+2019-56-27 14:56:26 INFO  TC_001:23 - Clicked on Amazon search button
+2019-57-27 14:57:38 INFO  TC_001:12 - Opened the Browser of type:chrome

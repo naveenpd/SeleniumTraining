@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [SmokeSuite]" parallel="methods">
+  <parameter name="browser" value="chrome"/>
+  <test name="SmokeTest">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.project.NaveenSelenium.TC_004"/>
+    </classes>
+  </test> <!-- SmokeTest -->
+</suite> <!-- Failed suite [SmokeSuite] -->

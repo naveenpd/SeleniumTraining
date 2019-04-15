@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestSuite]" parallel="methods">
+  <parameter name="browser" value="chrome"/>
+  <test name="TestTest">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.project.NaveenSelenium.TC_004"/>
+    </classes>
+  </test> <!-- TestTest -->
+  <test name="TestTest(failed)" parallel="methods">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.project.NaveenSelenium.TC_004">
+        <methods>
+          <include name="amazon1"/>
+          <include name="startProcess"/>
+          <include name="endProcess"/>
+        </methods>
+      </class> <!-- com.project.NaveenSelenium.TC_004 -->
+    </classes>
+  </test> <!-- TestTest(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->
